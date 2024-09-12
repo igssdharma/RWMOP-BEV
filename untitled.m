@@ -1,5 +1,5 @@
 % Add polyfitn to path (ensure the path is correct)
-addpath('C:\Users\gedes\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\polyfitn');
+addpath('...\polyfitn');
 
 % Load your data from the workspace
 theta1 = MLDataPLATEMO4.theta1;
